@@ -1,0 +1,17 @@
+nhược của server vật lý
+chi phí đầu tư  cao
+chi phí duy trì : bảo trì và bảo dưỡng theo thời gian cụ thể
+nhân sự : tìm người phù hợp để quản trị
+hiệu quả : 1 máy chủ nên hiệu suất ko cao
+
+(Nếu chuyển sang hệ thống phân tán thì sẽ ntn)
+
+
+Giải pháp khi thay thế cloud server
+_tiết kiệm chi phí
+- tiết kiệm chi phí vận hành 
+-tiết kiệm chi phí thuê nhân sự
+-ĐƯợc hỗ trợ công nghệ cloud server mới 
+-hiệu quả cao và an toàn tuyệt đối dữ liệu 
+
+map reduce và hệ thống phân tán 
